@@ -86,6 +86,6 @@
 
 @media (max-width: 360px) {
   .popular-item {
-    gap: 16px;
+    gap: 14px;
   }
 }
