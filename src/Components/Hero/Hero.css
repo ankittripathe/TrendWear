@@ -242,31 +242,14 @@
     font-size: 14px;
     margin: 5px 0px;
     gap: 6px;
+    -webkit-tap-highlight-color: transparent; /* Removes the blue tap highlight */
+    outline: none; /* Removes any default outline */
   }
   .hero-latest-btn img {
     width: 16px;
   }
 
-  .hero-latest-btn:active {
-    transform: none; /* Add this line to prevent scaling */
-  }
-
-  /* demo */
-  
-  .hero-latest-btn {
-    outline: none; /* Removes the blue outline */
-    border: none; /* Ensures no unwanted border */
-  }
-  
-  .hero-latest-btn:focus {
-    outline: none;
-    box-shadow: none; /* Prevents any focus-related shadow */
-  }
-  
+  /* .hero-latest-btn:active { */
+  /* transform: none;  */
+  /* } */
 }
-
-
-
-
-
-
