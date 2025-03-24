@@ -309,7 +309,7 @@
 }
 
 /* Small mobile Devices */
-@media (max-width: 360px) {
+@media (max-width: 390px) {
   .cartItem-format {
     margin-top: 35px;
   }

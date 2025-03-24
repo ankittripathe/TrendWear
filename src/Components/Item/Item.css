@@ -83,7 +83,7 @@
     }
   }
   
-  @media (max-width: 500px) {
+  @media (max-width: 480px) {
     .item {
       width: 100%;
       max-width: 160px;

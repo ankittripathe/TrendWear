@@ -83,7 +83,7 @@
   }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 390px) {
   .collections {
     gap: 14px;
   }

@@ -159,7 +159,7 @@
 }
 
 /* Small Devices */
-@media (max-width: 360px) {
+@media (max-width: 390px) {
   .news-letter h1 {
     font-size: 22px;
   }

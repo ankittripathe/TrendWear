@@ -153,14 +153,13 @@
   }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 390px) {
   .loginsignup {
     padding-bottom: 0;
   }
 
   .loginsignup-container {
     padding: 1.2rem;
-    background-color: lightblue;
     padding-top: 10px;
   }
 

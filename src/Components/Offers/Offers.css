@@ -179,7 +179,7 @@
   }
   
   /* Small Mobile  */
-  @media(max-width:360px){
+  @media(max-width:390px){
     .offers-left h1 {
       font-size: 1.5rem;
       line-height: 0.9;

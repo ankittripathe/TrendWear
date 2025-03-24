@@ -93,7 +93,7 @@
   }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 390px) {
   .relatedproducts-item {
     gap: 14px;
   }

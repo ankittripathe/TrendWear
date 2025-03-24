@@ -84,7 +84,7 @@
   }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 390px) {
   .popular-item {
     gap: 14px;
   }
