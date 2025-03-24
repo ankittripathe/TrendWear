@@ -21,7 +21,7 @@ const ShopContext = (props) => {
       ...prevCart,
       [itemId]: (prevCart[itemId] || 0) + 1, // first-time addition starts from 1
     }));
-    // Show SweetAlert pop-up
+    // SweetAlert pop-up
     swal({
       title: "Success!",
       text: "Item added to cart successfully.",

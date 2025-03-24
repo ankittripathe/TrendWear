@@ -176,17 +176,3 @@
   }
 }
 
-/* Very Small Mobile (400px and below) */
-@media (max-width: 320px) {
-  .shopcategory-products {
-    grid-template-columns: 1fr;
-    gap: 10px;
-    width: 90%;
-  }
-  .shopcategory-loadmore {
-    width: 130px;
-    height: 40px;
-    font-size: 13px;
-    margin: 50px auto 15px;
-  }
-}
