@@ -102,7 +102,6 @@
   transition: all 0.3s ease-in;
 }
 
-
 .news-letter div button:hover {
   transform: scale(1.03);
 }
@@ -155,12 +154,12 @@
 
   .news-letter div button {
     font-size: 1.2rem;
+    width: 96%;
   }
-  
 }
 
 /* Small Devices */
-@media(max-width:360px){
+@media (max-width: 360px) {
   .news-letter h1 {
     font-size: 22px;
   }

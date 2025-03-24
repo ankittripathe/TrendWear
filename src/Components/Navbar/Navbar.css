@@ -216,8 +216,12 @@
     justify-content: center;
   }
   .nav-login-cart button {
-    padding: 8px 20px;
+    /* padding: 8px 20px; */
   }
+  .nav-dropdown {
+   margin-right: 10px;
+  }
+
 }
 
 @media (max-width: 360px) {
