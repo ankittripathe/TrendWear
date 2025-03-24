@@ -258,6 +258,16 @@
     display: grid;
     margin-top: 40px;
   }
+
+  /*  */
+  .cartItems-price {
+    padding-left: 14px;
+  }
+  .cartItems-dollar {
+    padding-left: 10px;
+  }
+
+
   .cartItems {
     margin: 60px 35px 10px;
   }

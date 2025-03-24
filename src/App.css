@@ -7,7 +7,6 @@
 
 @media (max-width: 390px) {
   .swal-modal {
-    width: 80% !important; 
-    max-width: 320px !important; 
+    width: 90% !important;
   }
 }
