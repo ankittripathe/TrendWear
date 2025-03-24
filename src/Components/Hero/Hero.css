@@ -214,6 +214,7 @@
   }
 }
 
+/* Mobile Devices */
 @media (max-width: 480px) {
   .hero {
     min-height: calc(50vh - 56px);
@@ -246,3 +247,16 @@
     width: 16px;
   }
 }
+
+
+.hero-latest-btn {
+  touch-action: manipulation;
+}
+
+/* demoooo */
+@media (max-width: 480px) {
+  .hero-latest-btn:active {
+    transform: scale(0.9);
+  }
+}
+
