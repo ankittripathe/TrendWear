@@ -235,4 +235,7 @@
   .nav-dropdown {
     margin-left: 10px;
   }
+  .nav-menu {
+    gap: 25px;
+  }
 }
