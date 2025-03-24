@@ -223,15 +223,16 @@
   }
 }
 
+
 @media (max-width: 390px) {
   .navbar {
-    padding: 10px 18px;
+    padding: 10px 20px;
     gap: 0;
   }
   .nav-logo p {
     display: none;
   }
-  .nav-login-cart button {
-    margin-left: 28px;
+  .nav-dropdown {
+    margin-left: 10px;
   }
 }
