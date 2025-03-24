@@ -13,7 +13,9 @@ const Footer = () => {
     <div className="footer">
       <div className="footer-logo">
         <img src={footer_logo} alt="Footer-Logo" />
-        <p>Trend<span>Wear</span></p>
+        <p>
+          Trend<span>Wear</span>
+        </p>
       </div>
 
       <ul className="footer-links">
@@ -43,12 +45,10 @@ const Footer = () => {
       </div>
 
       <div className="footer-copyright">
-        <hr />
-        © 2025 AnkitTripathi.dev. All Rights Reserved.
+        <hr />© 2025 AnkitTripathi.dev. All Rights Reserved.
       </div>
     </div>
   );
 };
 
 export default Footer;
-
