@@ -190,7 +190,7 @@
   /* Mobile Devices */
   @media (max-width: 484px) {
     .navbar {
-      padding: 10px 2px;
+      padding: 10px 8px;
       gap: 0;
     }
     .nav-logo {
