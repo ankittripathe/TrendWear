@@ -154,15 +154,16 @@
       padding: 1rem;
       border-radius: 0.8rem;
       margin-bottom: 3rem;
-      min-height: 35vh;
+      min-height: 30vh;
     }
   
     .offers-left h1 {
       font-size: 1.7rem;
+      line-height: 1.1;
     }
   
     .offers-left p {
-      font-size: 0.75rem;
+      font-size: 0.70rem;
     }
   
     .offers-left button {
@@ -177,3 +178,14 @@
     }
   }
   
+  /* Small Mobile  */
+  @media(max-width:360px){
+    .offers-left h1 {
+      font-size: 1.5rem;
+      line-height: 0.9;
+    }
+    .offers-right img {
+      width: 18vh;
+      margin-bottom: 15px;
+    }
+  }
