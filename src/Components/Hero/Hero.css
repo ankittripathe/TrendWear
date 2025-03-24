@@ -243,8 +243,10 @@
     margin: 5px 0px;
     gap: 6px;
   }
+  .hero-latest-btn:active {
+    transform: scale(0.95);
+  }
   .hero-latest-btn img {
     width: 16px;
   }
-
 }
