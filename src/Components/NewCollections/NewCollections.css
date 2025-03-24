@@ -71,7 +71,7 @@
   }
   
   /* Mobile Devices */
-  @media (max-width: 500px) {
+  @media (max-width: 480px) {
     .new-collections {
       gap: 10px;
       margin-bottom: 70px;
@@ -79,7 +79,7 @@
     .collections {
       display: grid;
       grid-template-columns: 1fr 1fr; 
-      gap: 10px;
+      gap: 22px;
       margin-top: 20px; 
     }
   }
