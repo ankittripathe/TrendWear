@@ -242,14 +242,9 @@
     font-size: 14px;
     margin: 5px 0px;
     gap: 6px;
-    -webkit-tap-highlight-color: transparent; /* Removes the blue tap highlight */
-    outline: none; /* Removes any default outline */
   }
   .hero-latest-btn img {
     width: 16px;
   }
 
-  /* .hero-latest-btn:active { */
-  /* transform: none;  */
-  /* } */
 }
