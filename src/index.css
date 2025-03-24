@@ -10,3 +10,17 @@
 body {
   font-family: "Poppins", Verdana, sans-serif;
 }
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+input,
+textarea,
+select {
+  font-family: "Poppins", Verdana, sans-serif;
+}
