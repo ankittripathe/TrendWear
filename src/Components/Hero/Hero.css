@@ -250,7 +250,23 @@
   .hero-latest-btn:active {
     transform: none; /* Add this line to prevent scaling */
   }
+
+  /* demo */
+  
+  .hero-latest-btn {
+    outline: none; /* Removes the blue outline */
+    border: none; /* Ensures no unwanted border */
+  }
+  
+  .hero-latest-btn:focus {
+    outline: none;
+    box-shadow: none; /* Prevents any focus-related shadow */
+  }
+  
 }
+
+
+
 
 
 
