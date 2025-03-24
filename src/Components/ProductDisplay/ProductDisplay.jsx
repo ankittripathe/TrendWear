@@ -14,26 +14,26 @@ const ProductDisplay = (props) => {
       <div className="productDisplay-left">
         {/* List */}
         <div className="productDisplay-img-list">
-          <img src={product.image} alt="" />
-          <img src={product.image} alt="" />
-          <img src={product.image} alt="" />
-          <img src={product.image} alt="" />
+          <img src={product.image} alt="Image" />
+          <img src={product.image} alt="Image" />
+          <img src={product.image} alt="Image" />
+          <img src={product.image} alt="Image" />
         </div>
 
         {/* main */}
         <div className="productDisplay-img">
-          <img className="productDisplay-main-img" src={product.image} alt="" />
+          <img className="productDisplay-main-img" src={product.image} alt="Image" />
         </div>
       </div>
 
       <div className="productDisplay-right">
         <h1>{product.name}</h1>
         <div className="productDisplay-right-stars">
-          <img src={star_icon} alt="" />
-          <img src={star_icon} alt="" />
-          <img src={star_icon} alt="" />
-          <img src={star_icon} alt="" />
-          <img src={star_dull_icon} alt="" />
+          <img src={star_icon} alt="Image" />
+          <img src={star_icon} alt="Image" />
+          <img src={star_icon} alt="Image" />
+          <img src={star_icon} alt="Image" />
+          <img src={star_dull_icon} alt="Image" />
           <p>(122)</p>
         </div>
 
