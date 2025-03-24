@@ -50,7 +50,7 @@ const Footer = () => {
 
       <div className="footer-copyright">
         <hr />
-        Designed by Ankit Tripathi © 2025. All rights reserved.
+        © 2025 AnkitTripathi.dev. All Rights Reserved.
       </div>
     </div>
   );
