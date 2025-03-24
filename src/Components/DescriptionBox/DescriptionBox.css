@@ -84,3 +84,12 @@
     font-size: 14px;
   }
 }
+
+@media screen and (max-width: 360px) {
+  
+  .descriptionBox-description {
+    padding: 16px;
+  }
+}
+
+
