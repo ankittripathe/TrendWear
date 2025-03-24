@@ -168,15 +168,15 @@
   }
   .nav-menu {
     display: none;
-    width: 100vw;  
+    width: 100vw;
     background-color: white;
     position: absolute;
     justify-content: center;
-    left: 0; 
+    left: 0;
     top: 55px;
     gap: 70px;
     height: 40px;
-    z-index: 1000; 
+    z-index: 1000;
   }
   .nav-menu-visible {
     display: flex;

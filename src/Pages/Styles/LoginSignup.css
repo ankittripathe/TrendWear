@@ -124,6 +124,18 @@
   }
 }
 
+@media (max-width: 800px) and (orientation: portrait) {
+  .loginsignup {
+    width: 100%;
+    padding: 6rem 1rem;
+    min-height: 50vh;
+  }
+
+  .loginsignup-container {
+    max-width: 600px;
+  }
+}
+
 @media screen and (max-width: 480px) {
   .loginsignup {
     padding: 2rem 1rem 1rem;
