@@ -84,3 +84,10 @@
     }
   }
   
+
+  @media (max-width: 360px) {
+    .popular-item {
+      gap: 18px;
+    }
+  }
+  
