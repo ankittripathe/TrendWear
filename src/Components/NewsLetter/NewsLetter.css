@@ -157,3 +157,13 @@
     border-radius: 24px;
   }
 }
+
+/* Small Devices */
+@media(max-width:360px){
+  .news-letter h1 {
+    font-size: 22px;
+  }
+  .news-letter p {
+    font-size: 1.4rem;
+  }
+}
