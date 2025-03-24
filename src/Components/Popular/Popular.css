@@ -4,6 +4,7 @@
     align-items: center;
     gap: 10px;
     margin-bottom: 50px;
+    background-color: red;
   }
   
   .popular h1 {
@@ -72,14 +73,14 @@
   }
   
   /* Mobile Devices */
-  @media (max-width: 500px) {
+  @media (max-width: 480px) {
     .popular {
       gap: 10px;
     }
     .popular-item {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 10px;
+      gap: 16px;
       margin-top: 20px;
     }
   }
