@@ -161,4 +161,33 @@
       font-size: 12px;
     }
   }
+
+  @media(max-width:360px){
+    .footer {
+      gap: 18px;
+    }
+    .footer-logo {
+      gap: 5px;
+    }
+    .footer-logo img {
+      width: 34px;
+    }
+    .footer-logo p {
+      font-size: 20px;
+    }
+    .footer-links {
+      gap: 10px;
+      font-size: 12px;
+    }
+    .footer-social-icon {
+      gap: 10px;
+    }
+    .footer-icons-container {
+      padding: 5px;
+    }
+    .footer-copyright {
+      font-size: 12px;
+    }
+
+  }
   

@@ -2,6 +2,7 @@
 .loginsignup {
   width: 100%;
   padding: 5rem 1rem;
+  /* margin-bottom: 100px; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -126,9 +127,7 @@
 
 @media screen and (max-width: 480px) {
   .loginsignup {
-    padding: 2rem 1rem 1rem;
-    min-height: 40vh;
-    margin-top: 68px;
+    padding: 2.3rem 1rem;
   }
 
   .loginsignup-container {
@@ -150,33 +149,5 @@
 
   .loginsignup-agree {
     font-size: 0.8rem;
-  }
-}
-
-@media (max-width: 360px) {
-  .loginsignup {
-    padding-bottom: 0;
-  }
-
-  .loginsignup-container {
-    padding: 1.2rem;
-    background-color: lightblue;
-    padding-top: 10px;
-  }
-
-  .loginsignup-container h1 {
-    margin: 0 0 0.8rem;
-    font-size: 1.8rem;
-  }
-
-  .loginsignup-fields {
-    gap: 0.75rem;
-    margin-bottom: 1.2rem;
-  }
-
-  .loginsignup-login {
-    margin: 0.6rem 0;
-    color: #5c5c5c;
-    font-size: 0.85rem;
   }
 }
