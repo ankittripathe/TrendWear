@@ -364,11 +364,18 @@
 
 /* Small Mobile */
 @media (max-width: 390px) {
+  .productDisplay {
+    margin-top: 20px;
+  }
   .productDisplay-img-list img {
-    height: 70px;
+    height: 69px;
   }
   .productDisplay-main-img {
     width: 100%;
     height: 300px;
+  }
+
+  .productDisplay-right h1 {
+    font-size: 18px;
   }
 }
