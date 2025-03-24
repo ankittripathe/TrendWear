@@ -134,9 +134,12 @@
     }
   }
   
-  @media (max-width: 400px) {
+  @media (max-width: 480px) {
     .footer {
       padding: 1rem 0.5rem;
+    }
+    .footer-logo {
+      gap: 12px;
     }
     .footer-logo img {
       width: 45px;
