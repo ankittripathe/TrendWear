@@ -4,7 +4,6 @@
     align-items: center;
     gap: 10px;
     margin-bottom: 50px;
-    background-color: red;
   }
   
   .popular h1 {
@@ -80,7 +79,7 @@
     .popular-item {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 16px;
+      gap: 22px;
       margin-top: 20px;
     }
   }
