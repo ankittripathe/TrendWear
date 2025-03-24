@@ -209,19 +209,17 @@
     flex-direction: row;
     align-items: center;
     overflow-x: auto;
+    /*  */
+    padding-right: 10px;
   }
   .nav-login-cart {
     transform: scale(0.8);
     gap: 30px;
     justify-content: center;
   }
-  .nav-login-cart button {
-    /* padding: 8px 20px; */
-  }
   .nav-dropdown {
-   margin-right: 10px;
+    margin-right: 10px;
   }
-
 }
 
 @media (max-width: 360px) {
@@ -232,7 +230,6 @@
   .nav-logo p {
     display: none;
   }
-
   .nav-login-cart button {
     margin-left: 28px;
   }
