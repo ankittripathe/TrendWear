@@ -152,10 +152,11 @@
   .news-letter input {
     font-size: 24px;
   }
+
   .news-letter div button {
-    width: 98%;
-    border-radius: 24px;
+    font-size: 1.3rem;
   }
+  
 }
 
 /* Small Devices */
