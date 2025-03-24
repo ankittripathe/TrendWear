@@ -163,9 +163,9 @@
   .shopcategory-products {
     grid-template-columns: repeat(2, 1fr);
     gap: 15px;
-    width: 90%;
+    width: 92%;
     margin: 20px auto;
-    padding: 0 5px;
+    padding: 0 16px;
     box-sizing: border-box;
   }
   .shopcategory-loadmore {

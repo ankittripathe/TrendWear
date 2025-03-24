@@ -70,12 +70,10 @@
 @media screen and (max-width: 480px) {
   .descriptionBox {
     margin: 30px 18px;
-   
   }
   .descriptionBox-nav-box {
     height: 45px;
     font-size: 13px;
-   
   }
   .descriptionBox-description {
     padding: 20px;
@@ -86,10 +84,7 @@
 }
 
 @media screen and (max-width: 360px) {
-  
   .descriptionBox-description {
     padding: 16px;
   }
 }
-
-
