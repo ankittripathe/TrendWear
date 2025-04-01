@@ -1,6 +1,7 @@
 import React from "react";
 import "./Styles/LoginSignup.css";
 import { useForm } from "react-hook-form"; // rect-hook-form
+import { ToastContainer, toast } from 'react-toastify'; // beautiful pop notification
 
 const LoginSignup = () => {
   const {
@@ -12,12 +13,14 @@ const LoginSignup = () => {
 
   const submitHandler = (data) => {
     console.log(data);
-    alert(`Submitted by: ${data.UserName}`);
+    toast.success(`Submitted by: ${data.UserName}`);
     // Clear input fields after submission
     reset();
   };
 
   return (
+    <>
+    <ToastContainer/>
     <form onSubmit={handleSubmit(submitHandler)}>
       <div className="loginsignup">
         <div className="loginsignup-container">
@@ -70,6 +73,7 @@ const LoginSignup = () => {
         </div>
       </div>
     </form>
+    </>
   );
 };
 
