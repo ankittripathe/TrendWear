@@ -1,7 +1,7 @@
 import React from "react";
 import "./Styles/LoginSignup.css";
 import { useForm } from "react-hook-form"; // rect-hook-form
-import { ToastContainer, toast } from 'react-toastify'; // beautiful pop notification
+import { ToastContainer, toast } from 'react-toastify'; // beautiful pop-up notification
 
 const LoginSignup = () => {
   const {
@@ -14,8 +14,7 @@ const LoginSignup = () => {
   const submitHandler = (data) => {
     console.log(data);
     toast.success(`Submitted by: ${data.UserName}`);
-    // Clear input fields after submission
-    reset();
+    reset();   // Clear input fields after submission
   };
 
   return (
