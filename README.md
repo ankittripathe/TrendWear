@@ -25,78 +25,65 @@ This project follows a **component-based architecture**, with well-structured `C
 
 ```
 📦 src
-├── 📁 Components                       # All UI components used across the app
-│   ├── 📁Assets                        # Shared assets (images, icons, etc.)
-│   ├── 📁Breadcrums
-|   |   |── Breadcrums.css
-|   |   └── Breadcrums.jsx
-|   |
-│   ├── 📁CartItems
-|   |   |── CartItems.css
-|   |   └── CartItems.jsx
-|   |
-│   ├── 📁DescriptionBox
-|   |   |── DescriptionBox.css
-|   |   └── DescriptionBox.jsx
-|   |
-│   ├── 📁Footer
-|   |   |── Footer.css
-|   |   └── Footer.jsx
-|   |
-│   ├── 📁Hero
-|   |   |── Hero.css
-|   |   └── Hero.jsx
-|   |
-│   ├── 📁Item
-|   |   |── Item.css
-|   |   └── Item.jsx
-|   |
-|   ├── 📁Navbar
-|   |   |── Navbar.css
-|   |   └── Navbar.jsx
-|   |
-|   ├── 📁NewCollections
-|   |   |── NewCollections.css
-|   |   └── NewCollections.jsx
-|   |
-|   ├── 📁NewsLetter
-|   |   |── NewsLetter.css
-|   |   └── NewsLetter.jsx
-|   |
-|   ├── 📁Offers
-|   |   |── Offers.css
-|   |   └── Offers.jsx
-|   |
-|   ├── 📁Popular
-|   |   |── Popular.css
-|   |   └── Popular.jsx
-|   |
-|   ├── 📁ProductDisplay
-|   |   |── ProductDisplay.css
-|   |   └── ProductDisplay.jsx
-|   |
-│   └── 📁RelatedProducts
-|       |── RelatedProducts.css
-|       └── RelatedProducts.jsx
-|
-├── 📁 Pages
-|   ├── 📁styles                          # Cart page
-|   |   |── LoginSignup.css
-|   |   └── ShopCategory.css
-|   |
-│   ├── Cart.jsx                           # Cart page
-│   ├── LoginSignup.jsx                    # Login and Signup combined page
-│   ├── LoginSignupNormal.jsx              # Alternate Login/Signup version
-│   ├── Product.jsx                        # Single product page
-│   ├── Shop.jsx                           # Main shop page
-│   └── ShopCategory.jsx                   # Category-based product listing
 │
-|
-├── App.css                                # Global styles
-├── App.jsx                                # Root component
-├── index.css                              # Base CSS
-├── main.jsx                               # React DOM renderer
-└── index.html                             # HTML template
+├── 📁 Components                  → All UI components
+│   ├── 📁 Assets                  → Shared assets (images, icons, etc.)
+│   ├── 📁 Breadcrums
+│   │   ├── Breadcrums.jsx
+│   │   └── Breadcrums.css
+│   ├── 📁 CartItems
+│   │   ├── CartItems.jsx
+│   │   └── CartItems.css
+│   ├── 📁 DescriptionBox
+│   │   ├── DescriptionBox.jsx
+│   │   └── DescriptionBox.css
+│   ├── 📁 Footer
+│   │   ├── Footer.jsx
+│   │   └── Footer.css
+│   ├── 📁 Hero
+│   │   ├── Hero.jsx
+│   │   └── Hero.css
+│   ├── 📁 Item
+│   │   ├── Item.jsx
+│   │   └── Item.css
+│   ├── 📁 Navbar
+│   │   ├── Navbar.jsx
+│   │   └── Navbar.css
+│   ├── 📁 NewCollections
+│   │   ├── NewCollections.jsx
+│   │   └── NewCollections.css
+│   ├── 📁 NewsLetter
+│   │   ├── NewsLetter.jsx
+│   │   └── NewsLetter.css
+│   ├── 📁 Offers
+│   │   ├── Offers.jsx
+│   │   └── Offers.css
+│   ├── 📁 Popular
+│   │   ├── Popular.jsx
+│   │   └── Popular.css
+│   ├── 📁 ProductDisplay
+│   │   ├── ProductDisplay.jsx
+│   │   └── ProductDisplay.css
+│   └── 📁 RelatedProducts
+│       ├── RelatedProducts.jsx
+│       └── RelatedProducts.css
+│
+├── 📁 Pages                       → All page-level components
+│   ├── 📁 styles
+│   │   ├── LoginSignup.css
+│   │   └── ShopCategory.css
+│   ├── Cart.jsx
+│   ├── LoginSignup.jsx
+│   ├── LoginSignupNormal.jsx
+│   ├── Product.jsx
+│   ├── Shop.jsx
+│   └── ShopCategory.jsx
+│
+├── App.jsx                       → Root component
+├── App.css                       → Global styles
+├── main.jsx                      → React DOM renderer
+├── index.css                     → Base styles
+└── index.html                    → HTML template
 ```
 
 ## 📸 Screenshots
