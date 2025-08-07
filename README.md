@@ -1,4 +1,4 @@
-# ✨ TrendWear – A Modern & Responsive E-commerce Clothing Platform ✨
+# ✨ TrendWear – E-commerce Clothing Brand ✨
 
 Thrilled to showcase **TrendWear**, an intuitive and stylish React-powered e-commerce clothing website designed for a seamless shopping experience! 🛍️
 
@@ -32,16 +32,10 @@ This project follows a **component-based architecture**, with well-structured `C
 
 
 <!--  -->
-# 🏠 NexusHome - Real Estate Website
 
-✨ **NexusHome** is a modern, fully responsive real estate web application built with **React JS** and **Tailwind CSS**. It showcases elegant UI, smooth UX, and interactive animations, creating a seamless experience for users exploring real estate projects.
 
 ---
 
-## 🚀 Live Demo
-
-🔗 [Live Demo](https://nexushome-realstate.vercel.app/)  
-📂 [GitHub Repo](https://github.com/ankittripathe/RealEstate-App)
 
 ---
 
