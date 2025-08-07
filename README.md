@@ -2,6 +2,8 @@
 
 Thrilled to showcase **TrendWear**, an intuitive and stylish React-powered e-commerce clothing website designed for a seamless shopping experience! 🛍️
 
+---
+
 ##  🎯 Key Features & 🛠️ Tech Stack:
 
 1️⃣ **React & React Router** – Smooth and dynamic navigation with BrowserRouter  
