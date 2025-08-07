@@ -93,6 +93,14 @@ While building NexusHome, I enhanced my understanding of:
 
 
 
+## 📸 Screenshots
+
+| Home Page | Login Page |
+|-----------|------------|
+| ![Home](./public/homepage.png) | ![Login](./public/loginpage.PNG) |
+
+
+
 
 ## 📦 Getting Started
 
