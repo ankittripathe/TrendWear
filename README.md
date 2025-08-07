@@ -87,8 +87,8 @@ While building NexusHome, I enhanced my understanding of:
 
 ## 📸 Screenshots
 
-| Home Page | Login Page |
-|------|------|-------|
+| Home Page | Login Page | AddToCart Page |
+|-----------|------------|----------------|
 | ![Home](./public/homepage.png) | ![Login](./public/loginpage.PNG) | ![AddToCart](./public/addToCart.PNG) |
 
 
