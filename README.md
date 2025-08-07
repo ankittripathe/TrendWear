@@ -87,9 +87,9 @@ While building NexusHome, I enhanced my understanding of:
 
 ## 📸 Screenshots
 
-| Homepage | Projects | Contact |
+| Home Page | Projects | Contact |
 |----------|----------|---------|
-| ![Home](./screenshots/home1.PNG) | ![Projects](./screenshots/projects.PNG) | ![Contact](./screenshots/contact.PNG) |
+| ![Home](./public/homepage.png) | ![Login](./public/loginpage.PNG) | ![AddToCart](./public/addToCart.PNG) |
 
 
 
