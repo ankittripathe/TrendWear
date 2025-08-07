@@ -28,6 +28,7 @@ This project follows a **component-based architecture**, with well-structured `C
 ## 🖼️ Screenshot
 
 !![TrendWear Homepage](/homepage.png)
+!![TrendWear Homepage](./public/homepage.png)
 
 
 ## 🔗 Links
