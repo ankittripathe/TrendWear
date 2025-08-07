@@ -2,7 +2,7 @@
 
 Thrilled to showcase **TrendWear**, an intuitive and stylish React-powered e-commerce clothing website designed for a seamless shopping experience! 🛍️
 
-## 🔹 Key Features & Tech Stack:
+##  🎯 Key Features & 🛠️ Tech Stack:
 
 1️⃣ **React & React Router** – Smooth and dynamic navigation with BrowserRouter  
 2️⃣ **React-Hook-Form** – Effortless and validated user input for a seamless checkout  
@@ -30,35 +30,8 @@ This project follows a **component-based architecture**, with well-structured `C
 - 🌐 **Live Demo**: [https://lnkd.in/drtsgfVk](https://trendwear-clothingsite.vercel.app/)  
 - 📁 **GitHub Repo**: [https://lnkd.in/g-m6hC2Y](https://github.com/ankittripathe/TrendWear)
 
-
-<!--  -->
-
-
 ---
 
-
----
-
-## 🎯 Features
-
-- **🖼️ Animated Sections** – Smooth animations across Header, About, Projects, Testimonials & more using **Framer Motion**.
-- **📱 Responsive Design** – Optimized for all devices with a mobile-friendly **hamburger navigation** and scroll lock.
-- **🔄 Multi-page Navigation** – Implemented using **React Router DOM**.
-- **📤 Contact Form Integration** – Easily submit messages via **Web3Forms**.
-- **🔔 Toast Notifications** – User-friendly alerts with **React Toastify**.
-
----
-
-## 🛠️ Tech Stack
-
-- **React JS**
-- **Tailwind CSS**
-- **Framer Motion**
-- **React Router DOM**
-- **React Toastify**
-- **Web3Forms**
-
----
 
 ## 📁 Folder Structure
 
@@ -127,8 +100,8 @@ While building NexusHome, I enhanced my understanding of:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/ankittripathe/RealEstate-App.git
-cd RealEstate-App
+git clone https://github.com/ankittripathe/TrendWear.git
+cd TrendWear
 
 # 2. Install dependencies
 npm install
