@@ -1,10 +1,7 @@
----
-
 # ✨ TrendWear – Ecommerce Clothing Brand ✨
 
 Thrilled to showcase **TrendWear**, an intuitive and stylish React-powered e-commerce clothing website designed for a seamless shopping experience! 🛍️
 
----
 
 ##  🎯 Key Features & 🛠️ Tech Stack:
 
@@ -16,7 +13,6 @@ Thrilled to showcase **TrendWear**, an intuitive and stylish React-powered e-com
 6️⃣ **Google Fonts & Material UI** – Clean, modern, and responsive design  
 7️⃣ **Add to Cart & Remove from Cart** – Fully functional shopping cart system  
 8️⃣ **Smooth Scroll Behavior** – Enhanced browsing experience with fluid page transitions  
-
 
 
 ## 📂 Data Management
@@ -72,7 +68,7 @@ This project follows a **component-based architecture**, with well-structured `C
 └── index.html
 ```
 
----
+
 
 ## 💡 What I Learned
 
@@ -84,7 +80,7 @@ While building NexusHome, I enhanced my understanding of:
 - **Integrating third-party APIs** like Web3Forms for form submissions.
 - Providing **instant user feedback** through React Toastify.
 
----
+
 
 ## 📸 Screenshots
 
@@ -93,7 +89,7 @@ While building NexusHome, I enhanced my understanding of:
 | ![Home](./screenshots/home1.PNG) | ![Projects](./screenshots/projects.PNG) | ![Contact](./screenshots/contact.PNG) |
 
 
----
+
 
 ## 📦 Getting Started
 
@@ -102,7 +98,7 @@ While building NexusHome, I enhanced my understanding of:
 - Node.js (v14 or above)
 - npm or yarn
 
----
+
 
 ## 🚀 How to Run the Project
 
@@ -118,7 +114,7 @@ npm install
 npm run dev
 ```
 
----
+
 
 ## 🤝 Let's Connect
 
@@ -130,7 +126,3 @@ If you're passionate about frontend development, UI/UX, or React-based web apps 
 ## 🌐 Check Out My Portfolio
 
 🔗 [Visit My Developer Portfolio](https://ankittripathi.vercel.app/)
-
-
-
----
