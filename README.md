@@ -33,18 +33,56 @@ This project follows a **component-based architecture**, with well-structured `C
 ├── 📁 Components
 │   ├── 📁Assets
 │   ├── 📁Breadcrums
+|   |   |── Breadcrums.css
+|   |   └── Breadcrums.jsx
+|   |
 │   ├── 📁CartItems
+|   |   |── CartItems.css
+|   |   └── CartItems.jsx
+|   |
 │   ├── 📁DescriptionBox
+|   |   |── DescriptionBox.css
+|   |   └── DescriptionBox.jsx
+|   |
 │   ├── 📁Footer
+|   |   |── Footer.css
+|   |   └── Footer.jsx
+|   |
 │   ├── 📁Hero
+|   |   |── Hero.css
+|   |   └── Hero.jsx
+|   |
 │   ├── 📁Item
+|   |   |── Item.css
+|   |   └── Item.jsx
+|   |
 |   ├── 📁Navbar
+|   |   |── Navbar.css
+|   |   └── Navbar.jsx
+|   |
 |   ├── 📁NewCollections
+|   |   |── NewCollections.css
+|   |   └── NewCollections.jsx
+|   |
 |   ├── 📁NewsLetter
+|   |   |── NewsLetter.css
+|   |   └── NewsLetter.jsx
+|   |
 |   ├── 📁Offers
+|   |   |── Offers.css
+|   |   └── Offers.jsx
+|   |
 |   ├── 📁Popular
+|   |   |── Popular.css
+|   |   └── Popular.jsx
+|   |
 |   ├── 📁ProductDisplay
+|   |   |── ProductDisplay.css
+|   |   └── ProductDisplay.jsx
+|   |
 │   └── 📁RelatedProducts
+|       |── RelatedProducts.css
+|       └── RelatedProducts.jsx
 |
 ├── 📁 Pages
 |   ├── 📁styles                          # Cart page
