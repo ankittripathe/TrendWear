@@ -23,14 +23,7 @@ All product data is structured within JavaScript object files inside the `assets
 ## 💡 Core Development Approach
 
 This project follows a **component-based architecture**, with well-structured `Components`, `Pages`, and `Context API` for state handling. Hooks like `useState`, `useContext`, and `useParams` power dynamic functionality.
-
-
-## 🖼️ Screenshot
-
-![TrendWear Homepage](./public/homepage.png)
-![TrendWear Loginpage](./public/loginpage.PNG)
-![TrendWear AddToCart Page](./public/addToCart.PNG)
-
+ 
 
 ## 🔗 Links
 
@@ -84,24 +77,15 @@ While building NexusHome, I enhanced my understanding of:
 - Providing **instant user feedback** through React Toastify.
 
 
-
 ## 📸 Screenshots
 
-| Home Page | Login Page | AddToCart Page |
-|-----------|------------|----------------|
-| ![Home](./public/homepage.png) | ![Login](./public/loginpage.PNG) | ![AddToCart](./public/addToCart.PNG) |
-
-
-
-## 📸 Screenshots
-
-| Home Page | Login Page |
+| Home Page | Main Page |
 |-----------|------------|
-| ![Home](./public/homepage.png) | ![Login](./public/loginpage.PNG) |
+| ![Home](./public/homepage.png) | ![Main](./public/loginpage.PNG) |
 
-| Home Page | Login Page |
+| Login Page | AddToCart Page |
 |-----------|------------|
-| ![Home](./public/homepage.png) | ![Login](./public/loginpage.PNG) |
+| ![Login](./public/loginpage.PNG) | ![AddToCart](./public/addToCart.PNG) |
 
 
 ## 📸 Screenshots
@@ -110,17 +94,17 @@ While building NexusHome, I enhanced my understanding of:
 |-----------|
 | ![Home](./public/homepage.png) | 
 
+| Main Page | 
+|-----------|
+| ![Main](./public/homepage.png) |
+
 | Login Page |
 |------------|
 ![Login](./public/loginpage.PNG) |
 
-| Home Page | 
-|-----------|
-| ![Home](./public/homepage.png) |
-
-|Login Page |
-|-----------|
-|![Login](./public/loginpage.PNG) |
+| AddToCart Page |
+|----------------|
+|![AddToCart](./public/addToCart.PNG) |
 
 
 
