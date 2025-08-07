@@ -48,16 +48,16 @@ This project follows a **component-based architecture**, with well-structured `C
 │   └── Testimonials.jsx
 │
 ├── 📁 Pages
-│   ├── AboutPage.jsx
-│   ├── ContactPage.jsx
-│   ├── HomePage.jsx
-│   ├── LoginSignupPage.jsx
-│   ├── ProjectPage.jsx
-│   └── TestimonialPage.jsx
+│   ├── Cart.jsx
+│   ├── LoginSignup.jsx
+│   ├── LoginSignupNormal.jsx
+│   ├── Product.jsx
+│   ├── Shop.jsx
+│   └── ShopCategory.jsx
 │
 ├── 📁 assets
 │   └── assets.js
-│
+|
 ├── App.jsx
 ├── main.jsx
 ├── index.css
@@ -79,9 +79,9 @@ While building NexusHome, I enhanced my understanding of:
 
 ## 📸 Screenshots
 
-| Home Page | Main Page |
+| Home Page | Shop Page |
 |-----------|------------|
-| ![Home](./public/homepage.png) | ![Main](./public/loginpage.PNG) |
+| ![Home](./public/homepage.png) | ![Shop](./public/shoppage.PNG) |
 
 | Login Page | AddToCart Page |
 |-----------|------------|
