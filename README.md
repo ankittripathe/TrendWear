@@ -79,7 +79,7 @@ While building NexusHome, I enhanced my understanding of:
 
 ## 📸 Screenshots
 
-| Home Page | Shop Page |
+| Home Page | Shopping Page |
 |-----------|------------|
 | ![Home](./public/homepage.png) | ![Shop](./public/shoppage.PNG) |
 
@@ -94,9 +94,9 @@ While building NexusHome, I enhanced my understanding of:
 |-----------|
 | ![Home](./public/homepage.png) | 
 
-| Main Page | 
+| Shopping Page | 
 |-----------|
-| ![Main](./public/homepage.png) |
+| ![Main](./public/shoppage.PNG) |
 
 | Login Page |
 |------------|
