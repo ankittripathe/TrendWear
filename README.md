@@ -1,6 +1,6 @@
 # ✨ TrendWear – Ecommerce Clothing Brand ✨
 
-Thrilled to showcase **TrendWear**, an intuitive and stylish React-powered e-commerce clothing website designed for a seamless shopping experience! 🛍️
+Excited to present **TrendWear**, a sleek and responsive e-commerce clothing platform built with React, delivering a smooth, modern, and user-friendly shopping experience. 🛍️
 
 ## 🎯 Key Features & 🛠️ Tech Stack:
 
@@ -113,14 +113,16 @@ This project follows a **component-based architecture**, with well-structured `C
 
 ## 💡 What I Learned
 
-While building NexusHome, I enhanced my understanding of:
+While building TrendWear, I enhanced my understanding of:
 
-- Designing **responsive user interfaces** using Tailwind CSS.
-- Creating **smooth animations and transitions** with Framer Motion.
-- Managing **client-side routing** using React Router DOM.
-- **Integrating third-party APIs** like Web3Forms for form submissions.
-- Providing **instant user feedback** through React Toastify.
-
+- Smooth navigation using **React Router (BrowserRouter)**.
+- Validated forms with **React Hook Form**.
+- User-friendly alerts via **SweetAlert**.
+- UI design using **React Icons (FontAwesome)**.
+- State management with **Context API**.
+- Cart features: **Add to Cart** & **Remove from Cart**.
+- Responsive design with **Google Fonts** & **Material UI**.
+- Enhanced UX with **smooth scroll** and transitions.
 
 
 ## 📦 Getting Started
