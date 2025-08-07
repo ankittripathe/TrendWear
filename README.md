@@ -1,3 +1,5 @@
+---
+
 # ✨ TrendWear – Ecommerce Clothing Brand ✨
 
 Thrilled to showcase **TrendWear**, an intuitive and stylish React-powered e-commerce clothing website designed for a seamless shopping experience! 🛍️
