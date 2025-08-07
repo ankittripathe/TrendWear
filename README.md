@@ -17,19 +17,17 @@ Thrilled to showcase **TrendWear**, an intuitive and stylish React-powered e-com
 7️⃣ **Add to Cart & Remove from Cart** – Fully functional shopping cart system  
 8️⃣ **Smooth Scroll Behavior** – Enhanced browsing experience with fluid page transitions  
 
----
+
 
 ## 📂 Data Management
 
 All product data is structured within JavaScript object files inside the `assets` folder, ensuring flexibility and ease of management.
 
----
 
 ## 💡 Core Development Approach
 
 This project follows a **component-based architecture**, with well-structured `Components`, `Pages`, and `Context API` for state handling. Hooks like `useState`, `useContext`, and `useParams` power dynamic functionality.
 
----
 
 ## 🖼️ Screenshot
 
@@ -40,7 +38,7 @@ This project follows a **component-based architecture**, with well-structured `C
 - 🌐 **Live Demo**: [https://lnkd.in/drtsgfVk](https://trendwear-clothingsite.vercel.app/)  
 - 📁 **GitHub Repo**: [https://lnkd.in/g-m6hC2Y](https://github.com/ankittripathe/TrendWear)
 
----
+
 
 
 ## 📁 Folder Structure
