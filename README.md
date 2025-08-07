@@ -21,17 +21,12 @@ All product data is structured within JavaScript object files inside the `assets
 
 This project follows a **component-based architecture**, with well-structured `Components`, `Pages`, and `Context API` for state handling. Hooks like `useState`, `useContext`, and `useParams` power dynamic functionality.
 
-## 🔗 Links
-
-- 🌐 **Live Demo**: [https://lnkd.in/drtsgfVk](https://trendwear-clothingsite.vercel.app/)
-- 📁 **GitHub Repo**: [https://lnkd.in/g-m6hC2Y](https://github.com/ankittripathe/TrendWear)
-
 ## 📁 Folder Structure
 
 ```
 📦 src
-├── 📁 Components
-│   ├── 📁Assets
+├── 📁 Components                       # All UI components used across the app
+│   ├── 📁Assets                        # Shared assets (images, icons, etc.)
 │   ├── 📁Breadcrums
 |   |   |── Breadcrums.css
 |   |   └── Breadcrums.jsx
@@ -104,26 +99,6 @@ This project follows a **component-based architecture**, with well-structured `C
 └── index.html                             # HTML template
 ```
 
-## 💡 What I Learned
-
-While building NexusHome, I enhanced my understanding of:
-
-- Designing **responsive user interfaces** using Tailwind CSS.
-- Creating **smooth animations and transitions** with Framer Motion.
-- Managing **client-side routing** using React Router DOM.
-- **Integrating third-party APIs** like Web3Forms for form submissions.
-- Providing **instant user feedback** through React Toastify.
-
-## 📸 Screenshots
-
-| Home Page                      | Shopping Page                  |
-| ------------------------------ | ------------------------------ |
-| ![Home](./public/homepage.png) | ![Shop](./public/shoppage.PNG) |
-
-| Login Page                       | AddToCart Page                       |
-| -------------------------------- | ------------------------------------ |
-| ![Login](./public/loginpage.PNG) | ![AddToCart](./public/addToCart.PNG) |
-
 ## 📸 Screenshots
 
 | Home Page                      |
@@ -141,6 +116,25 @@ While building NexusHome, I enhanced my understanding of:
 | AddToCart Page                       |
 | ------------------------------------ |
 | ![AddToCart](./public/addToCart.PNG) |
+
+
+## 🔗 Links
+
+- 🌐 **Live Demo**: [https://lnkd.in/drtsgfVk](https://trendwear-clothingsite.vercel.app/)
+- 📁 **GitHub Repo**: [https://lnkd.in/g-m6hC2Y](https://github.com/ankittripathe/TrendWear)
+
+
+## 💡 What I Learned
+
+While building NexusHome, I enhanced my understanding of:
+
+- Designing **responsive user interfaces** using Tailwind CSS.
+- Creating **smooth animations and transitions** with Framer Motion.
+- Managing **client-side routing** using React Router DOM.
+- **Integrating third-party APIs** like Web3Forms for form submissions.
+- Providing **instant user feedback** through React Toastify.
+
+
 
 ## 📦 Getting Started
 
