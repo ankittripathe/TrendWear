@@ -99,6 +99,9 @@ While building NexusHome, I enhanced my understanding of:
 |-----------|------------|
 | ![Home](./public/homepage.png) | ![Login](./public/loginpage.PNG) |
 
+| Home Page | Login Page |
+|-----------|------------|
+| ![Home](./public/homepage.png) | ![Login](./public/loginpage.PNG) |
 
 
 
