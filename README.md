@@ -47,23 +47,23 @@ This project follows a **component-based architecture**, with well-structured `C
 │   └── 📁RelatedProducts
 |
 ├── 📁 Pages
-|   ├── 📁styles
+|   ├── 📁styles                          # Cart page
 |   |   |── LoginSignup.css
 |   |   └── ShopCategory.css
 |   |
-│   ├── Cart.jsx
-│   ├── LoginSignup.jsx
-│   ├── LoginSignupNormal.jsx
-│   ├── Product.jsx
-│   ├── Shop.jsx
-│   └── ShopCategory.jsx
+│   ├── Cart.jsx                           # Cart page
+│   ├── LoginSignup.jsx                    # Login and Signup combined page
+│   ├── LoginSignupNormal.jsx              # Alternate Login/Signup version
+│   ├── Product.jsx                        # Single product page
+│   ├── Shop.jsx                           # Main shop page
+│   └── ShopCategory.jsx                   # Category-based product listing
 │
 |
-├── App.css         # Global styles
-├── App.jsx           # Root component
-├── index.css        # Base CSS
-├── main.jsx          # React DOM renderer
-└── index.html     # HTML template
+├── App.css                                # Global styles
+├── App.jsx                                # Root component
+├── index.css                              # Base CSS
+├── main.jsx                               # React DOM renderer
+└── index.html                             # HTML template
 ```
 
 ## 💡 What I Learned
