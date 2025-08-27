@@ -107,8 +107,8 @@ This project follows a **component-based architecture**, with well-structured `C
 
 ## 🔗 Links
 
-- 🌐 **Live Demo**: [https://lnkd.in/drtsgfVk](https://trendwear-clothingsite.vercel.app/)
-- 📁 **GitHub Repo**: [https://lnkd.in/g-m6hC2Y](https://github.com/ankittripathe/TrendWear)
+- 🌐 **Live Demo**: [Live Demo](https://trendwear-clothingsite.vercel.app/)
+- 📁 **GitHub Repo**: [Source Code](https://github.com/ankittripathe/TrendWear)
 
 
 ## 💡 What I Learned
